@@ -1,7 +1,7 @@
 # GAN integrated with LSTM 
 Final project for _Machine Learning for Financial Asset Pricing_ (Math 364) at Claremont Graduate University. 
 
-With Matthew Chalk
+With Matthew Chalk @MatthewChalkG
 
 Based on [this paper](https://arxiv.org/abs/1904.00745)  
 
